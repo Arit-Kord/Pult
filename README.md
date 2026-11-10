@@ -10,7 +10,7 @@ The interface is in Russian.
 
 ## Download
 
-Get the latest release from the **Releases** page.
+Version 1.3. All files are in the [`download`](download) folder: open a file there and press the download button. [`torgovyi-terminal-1.3.zip`](download/torgovyi-terminal-1.3.zip) contains everything at once.
 
 | File | What it is |
 |---|---|
